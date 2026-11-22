@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="heartgram_launcher_icon_names">
+        <item>Обычная</item>
+        <item>Сланец</item>
+        <item>Янтарь</item>
+        <item>Небо</item>
+        <item>Орхидея</item>
+        <item>Медь</item>
+        <item>Аврора</item>
+        <item>Чернила</item>
+        <item>Терракота</item>
+        <item>Луг</item>
+        <item>Неон</item>
+        <item>Эскиз</item>
+        <item>Кот</item>
+    </string-array>
+</resources>

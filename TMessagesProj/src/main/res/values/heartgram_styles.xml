@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="heartgram_launcher_icon_names">
+        <item>Standard</item>
+        <item>Slate</item>
+        <item>Amber</item>
+        <item>Sky</item>
+        <item>Orchid</item>
+        <item>Copper</item>
+        <item>Aurora</item>
+        <item>Ink</item>
+        <item>Terracotta</item>
+        <item>Meadow</item>
+        <item>Neon</item>
+        <item>Sketch</item>
+        <item>Cat</item>
+    </string-array>
+</resources>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="id" name="heartgram_keep_typeface" />
+    <item type="id" name="heartgram_original_typeface" />
+    <item type="id" name="heartgram_edit_history_action" />
+</resources>
